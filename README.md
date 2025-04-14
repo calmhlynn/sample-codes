@@ -1,1 +1,7 @@
-# 임시디렉토리
+### Various sample & exercise codes
+
+- **C++**
+- **Python**
+- **JS & TS**
+- **Go**
+- **Java**
